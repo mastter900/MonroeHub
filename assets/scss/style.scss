@@ -1,0 +1,58 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+nav {
+    background-color: #1b1b1b; }
+
+body{
+    background-color: black;
+}
+
+text{
+    color:white;
+}
+text:hover{
+    color:#f90;
+}
+
+input{
+    background-color:#363636;
+    border:none;
+    border-radius:3px;
+    outline:none;
+}
+input:placeholder-shown {
+    font-style: italic;
+}
+
+span{
+    color:#6a6a6a;
+}
+
+span:hover{
+    color:#f90;
+}
+
+ion-icon{
+    color:#146fdf;
+
+}
+
+.cubred{
+background-color:red;
+}
+.cubgreen{
+    background-color:green;
+
+}
+
+.monroeVideo{
+    height:auto;
+}
+
+.videoThumbnail{
+    cursor:pointer;
+}
+
